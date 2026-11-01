@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">JAEHYU — Business questions. Small experiments.</title>
+  <desc id="desc">A navy banner with mint accents connecting business questions to learning and building.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101D32"/><stop offset="1" stop-color="#1D3C4A"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#92DCD0" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="22" fill="url(#grid)"/>
+  <rect x="52" y="47" width="6" height="184" rx="3" fill="#7BE1CB"/>
+  <text x="82" y="76" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="3" fill="#9BE5D5">BUSINESS × AI × LEARNING</text>
+  <text x="78" y="153" font-family="Segoe UI,Arial,sans-serif" font-size="70" font-weight="700" letter-spacing="4" fill="#F4F8FC">JAEHYU</text>
+  <text x="82" y="197" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#CDDAE8">Business questions. Small experiments.</text>
+  <text x="82" y="229" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#8EA8BC">Learning to turn everyday work into useful tools.</text>
+  <path d="M825 190 H897 V137 H969 V84 H1067" fill="none" stroke="#375B69" stroke-width="4"/>
+  <rect x="790" y="164" width="54" height="54" rx="12" fill="#254854" stroke="#52857C"/>
+  <rect x="875" y="111" width="54" height="54" rx="12" fill="#39776E"/>
+  <rect x="960" y="58" width="54" height="54" rx="12" fill="#7BE1CB"/>
+  <circle cx="1067" cy="84" r="7" fill="#C6F5E9"/>
+  <text x="790" y="246" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2" fill="#9BB5C7">ASK. LEARN. BUILD.</text>
+</svg>
+
